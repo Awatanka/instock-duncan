@@ -6,9 +6,9 @@ The website is fully responsive for mobile, tablet, and desktop viewing and user
 ## The Team
 
 This project was built with the collaboration of: <br>
-[Nanaya Miki](https://github.com/Lala0419) <br>
-[Hester L](https://github.com/hlai52) <br>
-[Emily Wong](https://github.com/emwong101) <br>
+ <br>
+<br>
+ <br>
 
 
 ## Tech Stack and Tools
