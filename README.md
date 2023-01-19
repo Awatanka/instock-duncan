@@ -18,7 +18,8 @@ Caty (https://github.com/Caty115)<br>
 * HTML, SASS, JavaScript, React, React Router, Node, Express, API's , MySQL, Knex.js, Axios
 
 ## Installation:
-1. To install and run the project you will need to clone or dowload the Front-end file - [instock-dunkan](https://github.com/Awatanka/instock-duncan), and the Back-end file - [instock-api-dunkan](https://github.com/Awatanka/instock-api-duncan/tree/main);
+1. To install and run the project you will need to clone or dowload the Frontend file - [instock-dunkan](https://github.com/Awatanka/instock-duncan), and the Backend file - [instock-api-dunkan](https://github.com/Awatanka/instock-api-duncan/tree/main);
+
 2. Run ```nmp i``` to install all the required packages for the app;
 
 ## Environment Variables
@@ -45,6 +46,7 @@ Add the following variables in .env file:
       },
 
 3. First run server use command ```npm start```. When you will see message 'Server is running on port 8080 🚀', do next step.
+
 4. To start the Frontend run the command ```npm start```;
 
 
