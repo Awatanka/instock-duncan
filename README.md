@@ -34,7 +34,7 @@ Add the following variables in .env file:
 ```DB_LOCAL_DBNAME="Warehouse"```<br>
 ```DB_LOCAL_USER="YOUR DB USER NAME"```<br>
 ```DB_LOCAL_PASSWORD="YOUR DB PASSWORD"```<br>
-## In case of problems check dependencies
+**In case of problems check dependencies
 "dependencies": {
         "cors": "^2.8.5",
         "dotenv": "^16.0.3",
