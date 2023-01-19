@@ -15,7 +15,7 @@ Caty (https://github.com/Caty115)<br>
 
 
 ## Tech Stack and Tools
-* HTML, SASS, JavaScript, React, React Router, Node, Express, API's , MySQL, Knex.js, Axios
+* HTML, SASS, JavaScript, React.js, Node.js, Express.js, API's , MySQL, Knex.js, Axios
 
 ## Installation:
 1. To install and run the project you will need to clone or dowload the Frontend file - [instock-dunkan](https://github.com/Awatanka/instock-duncan), and the Backend file - [instock-api-dunkan](https://github.com/Awatanka/instock-api-duncan/tree/main);
