@@ -3,6 +3,9 @@ Instock is an Agile project to deliver a full stack Inventory Management System 
 
 The website is fully responsive for mobile, tablet, and desktop viewing and users can add, edit or delete both warehouses and inventory items (full CRUD operations). 
 
+My contribution to the project:
+Lakpa and me were fully responsible for setting beckend part and database. 
+
 ## The Team
 
 This project was built with the collaboration of: <br>
@@ -17,23 +20,35 @@ Caty (https://github.com/Caty115)<br>
 ## Installation:
 1. To install and run the project you will need to clone or dowload the Front-end file - [instock-dunkan](https://github.com/Awatanka/instock-duncan), and the Back-end file - [instock-api-dunkan](https://github.com/Awatanka/instock-api-duncan/tree/main);
 2. Run ```nmp i``` to install all the required packages for the app;
-3. To start the Frontend run the command ```npm start```;
-4. To start the Backend run the command ```npm run server```;
 
 ## Environment Variables
-1. Frontend:
+*** Frontend:
 Add the following variables in .env file:
 
 ```REACT_APP_API_URL=https://localhost:8080```
   
-2. Backend:
+*** Backend:
 
-```DB_LOCAL_DBNAME="instock_api"```<br>
+```PORT = 8080```
+```DB_LOCAL_DBNAME="Warehouse"```<br>
 ```DB_LOCAL_USER="YOUR DB USER NAME"```<br>
 ```DB_LOCAL_PASSWORD="YOUR DB PASSWORD"```<br>
-```PORT = 8080```
+## In case of problems check dependencies
+"dependencies": {
+        "cors": "^2.8.5",
+        "dotenv": "^16.0.3",
+        "express": "^4.18.2",
+        "knex": "^2.3.0",
+        "moment": "^2.29.4",
+        "mysql": "^2.18.1",
+        "uuid": "^9.0.0"
+      },
 
-## Knex
+3. First run server use command ```npm start```. When you will see message 'Server is running on port 8080 🚀', do next step.
+4. To start the Frontend run the command ```npm start```;
+
+
+## How to work with Knex.js
 
 Knex is a SQL query builder, mainly used for Node.js applications with built in model schema creation, table migrations, connection pooling and seeding.
 
