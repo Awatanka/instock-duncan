@@ -6,9 +6,9 @@ The website is fully responsive for mobile, tablet, and desktop viewing and user
 ## The Team
 
 This project was built with the collaboration of: <br>
- <br>
-<br>
- <br>
+https://github.com/Su0112 <br>
+https://github.com/ldietz08 <br>
+https://github.com/Caty115<br>
 
 
 ## Tech Stack and Tools
