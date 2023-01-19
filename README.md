@@ -6,16 +6,16 @@ The website is fully responsive for mobile, tablet, and desktop viewing and user
 ## The Team
 
 This project was built with the collaboration of: <br>
-https://github.com/Su0112 <br>
-https://github.com/ldietz08 <br>
-https://github.com/Caty115<br>
+[Su] (https://github.com/Su0112) <br>
+[Lakpa] (https://github.com/ldietz08) <br>
+[Caty] (https://github.com/Caty115)<br>
 
 
 ## Tech Stack and Tools
 * HTML, SASS, JavaScript, React, React Router, Node, Express, API's , MySQL, Knex.js, Axios
 
 ## Installation:
-1. To install and run the project you will need to clone or dowload the Front-end file - [instock-dunkan](https://github.com/Awatanka/instock-duncan), and the Back-end file - [instock-dunkan-api]();
+1. To install and run the project you will need to clone or dowload the Front-end file - [instock-dunkan](https://github.com/Awatanka/instock-duncan), and the Back-end file - [instock-api-dunkan](https://github.com/Awatanka/instock-api-duncan/tree/main);
 2. Run ```nmp i``` to install all the required packages for the app;
 3. To start the Frontend run the command ```npm start```;
 4. To start the Backend run the command ```npm run server```;
