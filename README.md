@@ -1,7 +1,11 @@
-# InStock
+# InStock 🌱
 Instock is an Agile project to deliver a full stack Inventory Management System with a modern React and SCSS front-end communicating with back-end, that was build with Node.js (Express.js). Knex.js was used as an SQL query builder in Node.js., it was used for model schema creation, table migrations, connection pooling and seeding.
 
 The website is fully responsive for mobile, tablet, and desktop viewing and users can add, edit or delete both warehouses and inventory items (full CRUD operations). 
+
+##Demo 🌱
+
+https://user-images.githubusercontent.com/97055104/214982067-40802963-5775-4c3e-8579-26239a854757.mp4
 
 My contribution to the project:
 Lakpa and me were fully responsible for setting beckend part and database. 
