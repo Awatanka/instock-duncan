@@ -52,6 +52,7 @@ Add the following variables in .env file:
 3. First run server use command ```npm start```. When you will see message 'Server is running on port 8080 🚀', do next step.
 
 4. To start the Frontend run the command ```npm start```;
+5. Repo for the backend here (https://github.com/Awatanka/instock-api-duncan)
 
 
 ## How to work with Knex.js
